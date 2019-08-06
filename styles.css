@@ -1,0 +1,37 @@
+h1{
+  font-family: 'Merriweather', serif;
+  display: inline-block;
+}
+body{
+  background-color: #b2fcff;
+}
+img{
+  border-radius: 15%;
+
+}
+.drake1{
+    position: relative;
+    right: 60px;
+
+}
+div{
+text-align: center;
+}
+.top-half{
+  margin-bottom: 30px;
+}
+.first-line{
+  position: relative;
+  bottom: 150px;
+  left: 60px;
+}
+.drake2{
+  position: relative;
+  left: 120px;
+
+}
+.second-line{
+  position: relative;
+  bottom: 150px;
+  right: 70px;
+}
